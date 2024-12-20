@@ -10,5 +10,6 @@ public class A {
 		System.out.println("A5");
 		System.out.println("A6");
 		System.out.println("A7");
+		System.out.println("A10");
 	}
 }
