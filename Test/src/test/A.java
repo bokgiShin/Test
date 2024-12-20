@@ -8,5 +8,6 @@ public class A {
 		System.out.println("A3");
 		System.out.println("A4");
 		System.out.println("A5");
+		System.out.println("A6");
 	}
 }
