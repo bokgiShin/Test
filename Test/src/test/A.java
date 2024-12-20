@@ -12,5 +12,6 @@ public class A {
 		System.out.println("A7");
 		System.out.println("A10");
 		System.out.println("A11");
+		System.out.println("A12");
 	}
 }
